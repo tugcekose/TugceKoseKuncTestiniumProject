@@ -1,0 +1,13 @@
+<suite name="BeymenTest" >
+    <test name = "HomePageTestTest">
+        <parameter name ="browser" value= "chrome">
+        </parameter>
+        <classes>
+            <class name="Test.E2EProductBuyingTest"></class>
+        </classes>
+    </test>
+
+
+
+
+</suite>
